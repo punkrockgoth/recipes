@@ -1,4 +1,3 @@
-# Bacon-Wrapped Jalapeno Poppers
 ---
 title: Bacon-Wrapped Jalapeno Poppers
 categories:

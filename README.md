@@ -1,6 +1,8 @@
 # Recipes
 This is a collection of recipes created by Sarah LaCroix (@punkrockgoth) and Colin Childs (@phoul).
 
+Want one of our recipes that's not up yet? Create an issue.
+
 Recipes are broken up into categories: 
 
 * [Spices](spices/)

@@ -3,7 +3,7 @@ title: Bacon-Wrapped Jalapeno Poppers
 categories:
   - appetizers
 yield:
-  servings: 2 people
+  2 servings
 time:  
   prep: 5 minutes
   cook: 15 minutes

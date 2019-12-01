@@ -57,7 +57,7 @@ From How I Met Your Mother season 10.
 
 
 ### Variations:
-* [Peanut Butter Cookies] (peanut-butter-cookies.md)
+* [Peanut Butter Cookies](peanut-butter-cookies.md)
 
 ### Pairs well with:
 * chocolate almond milk

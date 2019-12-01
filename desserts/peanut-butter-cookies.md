@@ -51,7 +51,7 @@ You can use both, however it works best to not allow total mixins to go over 3/4
 
 
 ### Variations:
-* Can easily be turned into [Sumbitches] (sumbitches.md).
+* Can easily be turned into [Sumbitches](sumbitches.md).
 
 ### Pairs well with:
 * chocolate almond milk

@@ -21,7 +21,7 @@ temperature:
   * garlic powder
   * black pepper
   * roasted red pepper flakes
-  * [heresy pepper blend](spices/heresy-pepper-blend.md)
+  * [heresy pepper blend](../spices/heresy-pepper-blend.md)
   * chili pepper blend
 
 ## Instructions:

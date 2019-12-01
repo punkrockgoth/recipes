@@ -15,7 +15,7 @@ time:
   * spices
   * herbs
 
-### Optional Ingredients:
+#### Optional Ingredients:
 * unordered list
  
 ## Instructions:
@@ -23,10 +23,10 @@ time:
 2. End with how long to cook and/or serving instructions.
 
 
-## Variations:
+### Variations:
 * Unordered list
 
-## Pairs well with:
+### Pairs well with:
 * optional
 * link to existing recipe
 * or list food/drinks to pair with

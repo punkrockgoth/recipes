@@ -1,7 +1,7 @@
 # Recipes
 This is a collection of recipes created by Sarah LaCroix (@punkrockgoth) and Colin Childs (@phoul).
 
-Want one of our recipes that's not up yet? Create an issue.
+Want one of our recipes that's not up yet? [Create an issue](https://github.com/punkrockgoth/recipes/issues).
 
 Recipes are broken up into categories: 
 

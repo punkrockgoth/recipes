@@ -1,5 +1,4 @@
-# Recipes
-Appetizers
+# Appetizers
 
 * [Jalapeno Poppers](bacon-wrapped-jalapeno-poppers.md)
 

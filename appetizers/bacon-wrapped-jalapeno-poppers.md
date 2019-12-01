@@ -20,8 +20,10 @@ temperature:
 * Seasonings of choice - I use the following to taste:
   * garlic powder
   * black pepper
-  * red pepper flakes
- 
+  * roasted red pepper flakes
+  * [heresy pepper blend](spices/heresy-pepper-blend.md)
+  * chili pepper blend
+
 ## Instructions:
 1. Preheat the oven to 375. Line a baking sheet with foil or parchment paper. If using foil, spray with cooking spray.
 2. Cook bacon until flimsy and weird, but not fully cooked. I usually do this first so it's cooled off enough to handle by the time I'm ready to wrap the jalapenos.

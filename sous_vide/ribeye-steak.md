@@ -10,7 +10,7 @@ time:
   cook: 2 hours 10 minutes
   total: 2 hours 25 minutes
 temperature:
-  - 129f
+  rare: 129f
 ---
 
 ## Ingredients:
@@ -20,7 +20,7 @@ temperature:
 * Thyme
 
 ## Instructions:
-1. Preheat water bath to 129f
+1. Preheat water bath to temperature according to table
 2. Salt and pepper front and back of steak to your liking
 3. Add Thyme (ideally fresh) to front and back of steak
 4. Place steak into vaccum seal bag, or ziplock (if doing water sealing trick) and seal bag

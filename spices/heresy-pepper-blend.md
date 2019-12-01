@@ -1,5 +1,5 @@
 ---
-title: Heresy Pepper Blend
+title: Heresy Hot Pepper Blend
 categories:
   - spices
   - hot

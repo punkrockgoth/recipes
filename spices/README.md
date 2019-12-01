@@ -1,4 +1,4 @@
 # Spices
 
-* [Heresy](heresy-pepper-blend.md)
+* [Heresy Hot Pepper Blend](heresy-pepper-blend.md)
 

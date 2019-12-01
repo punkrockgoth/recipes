@@ -7,15 +7,14 @@ categories:
 yield:
   - 60 cookies
 time:  
-  prep: 15 minutes
-  idle: 1 hour
+  prep: 1 hour 15 minutes
   cook: 12 minutes (per batch)
   total: 2 hours 15 minutes
 temperature: 
-  - 350
+  - 350 F
 ---
 
-From How I Met Your Mother season 10.
+Inspired by How I Met Your Mother season 10.
 
 ## Ingredients:
 * 1 1/2 cups all-purpose flour
@@ -62,3 +61,5 @@ From How I Met Your Mother season 10.
 ### Pairs well with:
 * chocolate almond milk
 * grabbing a box of Kleenex while watching Ted rush to the Mother's apartment and give his speech about how he wants the extra 45 days
+
+@punkrockgoth

@@ -7,8 +7,12 @@ yield:
 time:  
   prep: 5 minutes
   cook: 15 minutes
+  total: 20 minutes
+temperature:
+  350 F
 ---
 
+Optional description 
 ## Ingredients:
 * unordered list of ingredients
 * Seasonings go nicely in a second level list
@@ -30,3 +34,5 @@ time:
 * optional
 * link to existing recipe
 * or list food/drinks to pair with
+
+@user

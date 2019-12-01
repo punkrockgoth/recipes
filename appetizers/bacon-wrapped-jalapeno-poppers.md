@@ -7,6 +7,8 @@ yield:
 time:  
   prep: 5 minutes
   cook: 15 minutes
+temperature:
+ - 375 F
 ---
 
 ## Ingredients:
@@ -34,3 +36,5 @@ time:
 
 ## Variations:
 * Use mini sweet peppers instead of jalapenos
+
+@punkrockgoth

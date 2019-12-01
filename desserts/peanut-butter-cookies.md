@@ -6,12 +6,11 @@ categories:
 yield:
   - 60 cookies
 time:  
-  prep: 15 minutes
-  idle: 1 hour
+  prep: 1 hour 15 minutes
   cook: 12 minutes (per batch)
   total: 2 hours 15 minutes
 temperature: 
-  - 350
+  - 350 F
 ---
 
 ## Ingredients:
@@ -55,3 +54,5 @@ You can use both, however it works best to not allow total mixins to go over 3/4
 
 ### Pairs well with:
 * chocolate almond milk
+
+@punkrockgoth

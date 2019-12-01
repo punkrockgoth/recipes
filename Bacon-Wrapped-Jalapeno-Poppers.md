@@ -7,9 +7,9 @@
 * 1/3 cup shredded old cheddar cheese
 * 6 slices bacon
 * Seasonings of choice - I use the following to taste:
-** garlic powder
-** black pepper
-** red pepper flakes
+..* garlic powder
+..* black pepper
+..* red pepper flakes
  
 ## Instructions:
 1. Preheat the oven to 375. Line a baking sheet with foil or parchment paper. If using foil, spray with cooking spray.

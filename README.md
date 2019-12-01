@@ -1,8 +1,13 @@
 # Recipes
-Don't be confused - the repo *is* the recipe manager.
+This is a collection of recipes created by Sarah LaCroix (@punkrockgoth) and Colin Childs (@phoul).
 
-Better README to come. 
+Recipes are broken up into categories: 
 
-Maybe.
+* [Spices] (spices/)
+* [Soups] (soups/)
+* [Desserts] (desserts/)
+* [Sous Vide] (sous_vide/)
+* [Appetizers] (appetizers/)
+* [Instant Pot] (instant_pot/)
+* [Grill] (grill/)
 
-I just want to close all of the hundreds of open tabs on my devices without fear of losing my recipes forevermore.

@@ -12,4 +12,5 @@ Recipes are broken up into categories:
 * [Appetizers](appetizers/)
 * [Instant Pot](instant_pot/)
 * [Grill](grill/)
+* [Snacks](snacks/)
 

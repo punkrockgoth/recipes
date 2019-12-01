@@ -6,8 +6,11 @@ categories:
 yield:
   - variable
 time:  
-  prep: 10-15 minutes
+  prep: 15 minutes
   cook: 2 hours 10 minutes
+  total: 2 hours 25 minutes
+temperature:
+  - 129f
 ---
 
 ## Ingredients:

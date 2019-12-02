@@ -9,7 +9,7 @@ yield:
 time:  
   prep: 1-2 hours
   cook: 20-25 minutes
-  total: 35-40 minutes
+  total: 2 hours 25 minutes
 temperature:
   Medium-high heat
 ---

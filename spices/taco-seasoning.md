@@ -1,10 +1,11 @@
 ---
 title: Taco Seasoning
 categories:
-  - Mexican
+  - mexican
   - tacos
+  - spices
 yield:
-  - 2 servings
+  - approx 2/3 - 3/4 cup
 time:  
   prep: 5 minutes
 ---

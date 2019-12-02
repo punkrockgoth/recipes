@@ -3,7 +3,7 @@ title: Hellfire Chicken
 categories:
   - meat
   - mains
-  - Hot
+  - hot
 yield:
   - variable
 time:  

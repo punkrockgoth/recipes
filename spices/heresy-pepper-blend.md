@@ -20,4 +20,6 @@ time:
 1. Mix ingredients together following the 2/2/1/0.5 ratio.
 2. Using a funnel, pour spice blend into a jar.
 
+Author
+------
 [@phoul](https://github.com/phoul)

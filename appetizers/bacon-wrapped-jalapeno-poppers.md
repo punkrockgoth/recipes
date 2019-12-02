@@ -5,8 +5,9 @@ categories:
 yield:
   - 2 servings
 time:  
-  prep: 5 minutes
+  prep: 20 minutes
   cook: 15 minutes
+  total: 35 minutes
 temperature:
  - 375 F
 ---

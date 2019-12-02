@@ -5,12 +5,12 @@ Want one of our recipes that's not up yet? [Create an issue](https://github.com/
 
 Recipes are broken up into categories: 
 
-* [Spices](spices/)
-* [Soups](soups/)
-* [Desserts](desserts/)
-* [Sous Vide](sous_vide/)
 * [Appetizers](appetizers/)
-* [Instant Pot](instant_pot/)
+* [Desserts](desserts/)
 * [Grill](grill/)
+* [Instant Pot](instant_pot/)
+* [Soups](soups/)
+* [Sous Vide](sous_vide/)
 * [Snacks](snacks/)
+* [Spices](spices/)
 

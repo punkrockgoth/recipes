@@ -28,4 +28,6 @@ temperature:
 5. Place breasts on hot grill, careful to avoid over exposure to direct flame
 6. Cook until slightl charred on the outside and cooked through
 
-@phoul
+Author |
+------ |
+[@phoul](https://github.com/phoul)

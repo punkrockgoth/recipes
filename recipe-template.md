@@ -35,4 +35,6 @@ Optional description
 * link to existing recipe
 * or list food/drinks to pair with
 
-@user
+Author |
+------ |
+[@user](https://github.com/user)

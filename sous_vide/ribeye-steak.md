@@ -34,4 +34,6 @@ temperature:
 11. Remove from skillet and let rest for 5-10 minutes
 12. Serve
 
-@phoul
+Author |
+------ |
+[@phoul](https://github.com/phoul)

@@ -62,4 +62,6 @@ Inspired by How I Met Your Mother season 10.
 * chocolate almond milk
 * grabbing a box of Kleenex while watching Ted rush to the Mother's apartment and give his speech about how he wants the extra 45 days
 
-@punkrockgoth
+Author |
+------ |
+[@punkrockgoth](https://github.com/punkrockgoth)

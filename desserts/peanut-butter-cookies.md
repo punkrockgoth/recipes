@@ -55,4 +55,6 @@ You can use both, however it works best to not allow total mixins to go over 3/4
 ### Pairs well with:
 * chocolate almond milk
 
-@punkrockgoth
+Author |
+------ |
+[@punkrockgoth](https://github.com/punkrockgoth)

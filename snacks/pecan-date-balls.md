@@ -42,4 +42,6 @@ The prep time includes the 30-40 minutes the dough sits in the fridge before rol
 * coffee
 * vegans
 
-@punkrockgoth
+Author |
+------ |
+[@punkrockgoth](https://github.com/punkrockgoth)

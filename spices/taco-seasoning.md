@@ -40,4 +40,6 @@ I tend to make the taco seasoning less spicy and then add in as I cook with it.
 ### Pairs well with:
 * Tuesdays
 
-@punkrockgoth
+Author |
+------ |
+[@punkrockgoth](https://github.com/punkrockgoth)

@@ -41,4 +41,7 @@ temperature:
 ## Variations:
 * Use mini sweet peppers instead of jalapenos
 
-@punkrockgoth & @phoul
+Author |
+------ |
+[@punkrockgoth](https://github.com/punkrockgoth)
+[@phoul](https://github.com/phoul)

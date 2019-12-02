@@ -15,6 +15,7 @@ temperature:
 
 ## Ingredients:
 * Ribeye Steak
+* Butter
 * Black Pepper
 * Salt
 * Thyme

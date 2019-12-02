@@ -33,3 +33,5 @@ temperature:
 10. Place the cooked and dried steak onto the skillet and sear to your liking
 11. Remove from skillet and let rest for 5-10 minutes
 12. Serve
+
+@phoul

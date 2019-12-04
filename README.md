@@ -14,3 +14,6 @@ Recipes are broken up into categories:
 * [Snacks](snacks/)
 * [Spices](spices/)
 
+Or you can take a look at some of our curated collections:
+* [Collections](collections/)
+

@@ -11,7 +11,8 @@ time:
   cook: 90 minutes
   total: 3 hours
 temperature:
-  350 F
+  medium
+  low
 ---
 
 Optional description 

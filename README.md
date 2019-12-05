@@ -9,6 +9,7 @@ Recipes are broken up into categories:
 * [Desserts](desserts/)
 * [Grill](grill/)
 * [Instant Pot](instant_pot/)
+* [Main Dishes](main_dishes/)
 * [Soups](soups/)
 * [Sous Vide](sous_vide/)
 * [Snacks](snacks/)

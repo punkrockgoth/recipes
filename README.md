@@ -14,6 +14,7 @@ Recipes are broken up into categories:
 * [Sous Vide](sous_vide/)
 * [Snacks](snacks/)
 * [Spices](spices/)
+* [Breads](breads/)
 
 Or you can take a look at some of our curated collections:
 * [Collections](collections/)

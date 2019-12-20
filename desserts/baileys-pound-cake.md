@@ -22,13 +22,13 @@ temperature:
 * 4 eggs
 * 1/4 cup water
 * 1/2 cup vegetable oil
-* 3/4 cup Irish cream
+* 3/4 cup Bailey's
 
 ### Glaze:
 * 1/2 cup butter
 * 1/4 cup water
 * 1 cup white sugar
-* 1/4 cup Irish cream
+* 1/4 cup Bailey's
  
 ## Instructions:
 1. Preheat oven to 325°F (165°C).

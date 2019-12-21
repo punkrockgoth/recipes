@@ -3,13 +3,13 @@ title: blank recipe template
 categories:
   - cake
   - dessert
-  - annual Christmas bakings
+  - annual Christmas baking
 yield:
   - 8 servings
 time:  
-  prep: 5 minutes
-  cook: 15 minutes
-  total: 20 minutes
+  prep: 15 minutes
+  cook: 60 minutes
+  total: 75 minutes
 temperature:
   325 F
 ---
@@ -43,9 +43,11 @@ temperature:
 10. Prick top and sides of cake.
 11. Spoon glaze over top and brush onto sides of cake.
 12. Allow to absorb glaze repeat until all glaze is used up.
-13. To make the glaze: In a saucepan, combine butter, 1/4 cup water and 1 cup sugar.
-14. Bring to a boil and continue boiling for 5 minutes, stirring constantly.
-15. Remove from heat and stir in 1/4 cup Irish cream.
+
+To make the glaze: 
+1. In a saucepan, combine butter, 1/4 cup water and 1 cup sugar.
+2. Bring to a boil and continue boiling for 5 minutes, stirring constantly.
+3. Remove from heat and stir in 1/4 cup Irish cream.
 
 
 ### Variations:

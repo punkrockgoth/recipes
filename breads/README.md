@@ -4,5 +4,5 @@
 * Sourdough - coming soon!
 * Raisin Sourdough - coming soon!
 * [Dinner Rolls](dinner-rolls.md)
-* Maple Bacon Cinnamon Rolls - coming soon!
+* [Maple Bacon Cinnamon Rolls](maple-bacon-cinnamon-rolls.md)
 

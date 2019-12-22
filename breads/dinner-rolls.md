@@ -1,7 +1,10 @@
 ---
 title: Dinner Rolls
 categories:
-  - none
+  - breads
+  - baking
+  - buns
+  - annual Christmas baking
 yield:
   - 14-18 buns
 time:  

@@ -4,4 +4,7 @@
 * [Sumbitches](sumbitches.md)
 
 ## Bars
-* Christmas Crack
+* [Christmas Crack](christmas-crack.md)
+
+## Cakes
+* [Bailey's Pound Cake](baileys-pound-cake.md)

@@ -52,10 +52,11 @@ To make the glaze:
 
 ### Variations:
 * This can be made with gluten free cake mix
+* For an alcohol free version, use Irish cream coffee creamer. Bailey's has a branded coffee creamer which is amazing.
 
 ### Pairs well with:
 * dark roast coffee
-* beef or pork tenderloin
+* beef tenderloin
 
 Author |
 ------ |

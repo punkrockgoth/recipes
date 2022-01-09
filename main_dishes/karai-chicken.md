@@ -28,9 +28,6 @@ A Pakistani curry chicken dish. I got this recipe from a coworker who got this r
 * 1/2 tsp garam masala
 * 1 tsp fenugreek seeds
 * cilanto or parsley to garnish
-
-#### Optional Ingredients:
-* unordered list
  
 ## Instructions:
 1. Heat oil in a pan over medium heat.

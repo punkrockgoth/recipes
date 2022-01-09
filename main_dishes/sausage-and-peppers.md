@@ -31,7 +31,7 @@ Optional description
   * Roasted red pepper and garlic
   * Pimento
   * Red Thai
-  * [Heresy Hot Pepper Blend](./spices/heresy-pepper-blend.md)
+  * [Heresy Hot Pepper Blend](../spices/heresy-pepper-blend.md)
   * Tipsy Cow seasoning salt
 
 ## Optional Ingredients:

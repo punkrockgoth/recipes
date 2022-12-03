@@ -1,5 +1,5 @@
 ---
-title: blank recipe template
+title: Maple Bacon Cinnamom Rolls
 categories:
   - breads
   - buns

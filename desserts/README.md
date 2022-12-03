@@ -8,6 +8,7 @@
 
 ## Bars
 * [Christmas Crack](christmas-crack.md)
+* [White Chocolate Brownies](white-chocolate-brownies.md)
 
 ## Cakes
 * [Bailey's Pound Cake](baileys-pound-cake.md)

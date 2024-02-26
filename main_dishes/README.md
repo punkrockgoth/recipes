@@ -7,3 +7,8 @@
 * [Chinese Pepper Steak](chinese-pepper-steak.md)
 * [Hash Brown Casserole](hash-brown-casserole.md)
 * [Chile à la fancy](chile-a-la-francy.md)
+* [Hawaiian Barbecue Turkey Burgers](hawaiian-barbecue-turkey-burgers.md)
+* [Pork Tenderloin & Rhubarb Chutney](pork-tenderloin-rhubarb-chutney.md)
+* [Beef Meatball Arribbiata](beef-meatball-arribbiata.md)
+* [Blackened Basa and Mango](blackened-basa-and-mango.md)
+* [Black Bean and Sweet Potato Enchiladas](black-bean-sweet-potato-enchiladas.md)

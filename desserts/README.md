@@ -5,6 +5,7 @@
 * [Haystacks](haystack-cookies.md)
 * [Snowball Cookies](snowball-cookies.md)
 * [White Chocolate Cranberry Orange Cookies](white-chocolate-cranberry-orange-cookies.md)
+* [Snickerdoodles](snickerdoodles.md)
 
 ## Bars
 * [Christmas Crack](christmas-crack.md)

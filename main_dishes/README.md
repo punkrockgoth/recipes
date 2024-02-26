@@ -12,3 +12,4 @@
 * [Beef Meatball Arribbiata](beef-meatball-arribbiata.md)
 * [Blackened Basa and Mango](blackened-basa-and-mango.md)
 * [Black Bean and Sweet Potato Enchiladas](black-bean-sweet-potato-enchiladas.md)
+* [Hot N Spicy Chicken](hot-n-spicy-chicken.md)

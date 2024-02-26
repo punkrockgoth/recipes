@@ -10,11 +10,12 @@ Recipes are broken up into categories:
 * [Grill](grill/)
 * [Instant Pot](instant_pot/)
 * [Main Dishes](main_dishes/)
-* [Soups](soups/)
+* [Soups](soup/)
 * [Sous Vide](sous_vide/)
 * [Snacks](snacks/)
 * [Spices](spices/)
 * [Breads](breads/)
+* [Breakfast](breakfast)
 
 Or you can take a look at some of our curated collections:
 * [Collections](collections/)

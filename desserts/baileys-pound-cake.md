@@ -1,5 +1,5 @@
 ---
-title: blank recipe template
+title: Bailey's Pound Cake
 categories:
   - cake
   - dessert

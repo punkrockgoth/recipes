@@ -12,6 +12,8 @@
 
 ## Cakes
 * [Bailey's Pound Cake](baileys-pound-cake.md)
+* [Pistachio Cake](pistachio-cake.md)
+* [Cookie Dough Cheesecake](cookie-dough-cheesecake.md)
 
 ## Other Treats
 * [Poppycock](poppycock.md)
